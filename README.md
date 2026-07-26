@@ -211,7 +211,9 @@ String Goal = "Become a Software Engineer";
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=skaviyarasu19-hub&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaviyarasu19-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=skaviyarasu19-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
