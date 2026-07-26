@@ -239,7 +239,7 @@ If you like my work,
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?
+
 <br><br>
 
 
