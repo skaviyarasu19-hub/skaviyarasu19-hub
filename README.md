@@ -245,6 +245,5 @@ If you like my work,
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,50:3B82F6,100:A855F7"/>
 
 </div>
-type=waving&height=220&section=footer&text=SEE%20YOU%20AGAIN!&fontSize=45&animation=twinkling&fontColor=ffffff&color=0:ff00ff,20:8A2BE2,40:00E5FF,60:00FFB3,80:FFD700,100:FF1493"/>
 
 </div>
