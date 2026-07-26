@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=⚡%20KAVIYARASU%20S%20⚡&fontSize=58&fontColor=ffffff&animation=twinkling&color=0:ff00ff,20:7b2ff7,40:00c6ff,60:00ffcc,80:ffee00,100:ff0080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=340&text=⚡%20KAVIYARASU%20S%20⚡&fontSize=68&fontColor=ffffff&animation=twinkling&color=0:ff0080,25:7928ca,50:2afadf,75:00f5ff,100:00ff88"/>
+
+</div>type=waving&height=320&text=⚡%20KAVIYARASU%20S%20⚡&fontSize=58&fontColor=ffffff&animation=twinkling&color=0:ff00ff,20:7b2ff7,40:00c6ff,60:00ffcc,80:ffee00,100:ff0080"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=⚡+WELCOME+TO+MY+GITHUB;💻+JAVA+DEVELOPER;🤖+AI+ENTHUSIAST;☁️+CLOUD+LEARNER;🚀+ALWAYS+LEARNING+NEW+TECH"/>
 
