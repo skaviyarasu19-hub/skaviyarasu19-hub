@@ -242,7 +242,6 @@ If you like my work,
 <img src="https://readme-typing-svg.demolab.com?
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,50:3B82F6,100:A855F7"/>
 
 </div>
 
