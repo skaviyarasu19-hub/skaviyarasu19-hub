@@ -239,8 +239,7 @@ If you like my work,
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=4000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Thanks+for+visiting.;See+you+in+the+next+commit.;Let's+build+something+awesome."/>
-
+<img src="https://readme-typing-svg.demolab.com?
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,50:3B82F6,100:A855F7"/>
