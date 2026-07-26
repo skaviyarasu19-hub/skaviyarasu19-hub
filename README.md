@@ -189,7 +189,6 @@ String Goal = "Become a Software Engineer";
 
 ---
 
-# ⚡ PROFILE VIEWS
 
 <p align="center">
 
