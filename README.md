@@ -200,7 +200,7 @@ String Goal = "Become a Software Engineer";
 
 ---
 
-# 💖 SUPPORT
+
 
 <p align="center">
 
