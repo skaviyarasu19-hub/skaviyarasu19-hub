@@ -1,21 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=340&text=⚡%20KAVIYARASU%20S%20⚡&fontSize=68&fontColor=ffffff&animation=twinkling&color=0:ff0080,25:7928ca,50:2afadf,75:00f5ff,100:00ff88"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=⚡+WELCOME+TO+MY+GITHUB;💻+JAVA+DEVELOPER;🤖+AI+ENTHUSIAST;☁️+CLOUD+LEARNER;🚀+ALWAYS+LEARNING+NEW+TECH"/>
-
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/skaviyarasu19-hub?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=ff00ff"/>
-
-<img src="https://img.shields.io/github/stars/skaviyarasu19-hub?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00e5ff"/>
-
-<img src="https://komarev.com/ghpvc/?username=skaviyarasu19-hub&style=for-the-badge&color=00ff99"/>
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&text=KAVIYARASU%20S&fontSize=54&fontAlignY=50&fontColor=ffffff&animation=fadeIn&color=0:0b0f19,50:111827,100:1f2937"/>
 
 </div>
-
 ---
 
 # 💎 ABOUT ME
