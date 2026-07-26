@@ -115,8 +115,6 @@ String Goal = "Become a Software Engineer";
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skaviyarasu19-hub&theme=tokyonight"/>
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skaviyarasu19-hub&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
